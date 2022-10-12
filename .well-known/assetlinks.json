@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.asteria.hubble.handbookx",
+    "sha256_cert_fingerprints":
+    ["19:AB:98:16:F2:2D:EF:3A:C3:62:93:DC:4A:68:7F:6D:C5:93:DA:7F:50:6A:02:EB:25:E6:C3:C5:2E:B3:EA:AF"]
+  }
+}]
